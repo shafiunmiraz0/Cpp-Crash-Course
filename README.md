@@ -71,8 +71,8 @@ C++ is a general-purpose programming language created by Bjarne Stroustrup as an
 
 ### Features of C++ Programming Language
 
-🟠 [![C++](https://img.shields.io/badge/Network%20Protocol-Programming-informational?style=flat)]()
+🟠 [![C++](https://img.shields.io/badge/Developing-Bitcoin%20Core-informational?style=flat)]()
 
 ### Popular Open Source GitHub Repository to Contribute
 
-🟠 [![C++](https://img.shields.io/badge/Lightning%20Network-Daemon⚡️-informational?style=flat)](https://github.com/lightningnetwork/lnd)
+🟠 [![C++](https://img.shields.io/badge/Bitcoin%20🍊-Core-informational?style=flat)](https://github.com/bitcoin/bitcoin)
