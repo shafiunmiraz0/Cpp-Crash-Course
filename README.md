@@ -23,7 +23,7 @@ C++ is a general-purpose programming language created by Bjarne Stroustrup as an
 
 🟠 [![C++](https://img.shields.io/badge/Working-With%20Strings-informational?style=flat)](https://github.com/shafiunmiraz0/Cpp-Crash-Course/tree/main/Working%20With%20Strings)
 
-🟠 [![C++](https://img.shields.io/badge/Working-With%20Numbers-informational?style=flat)]()
+🟠 [![C++](https://img.shields.io/badge/Working-With%20Numbers-informational?style=flat)](https://github.com/shafiunmiraz0/Cpp-Crash-Course/tree/main/Working%20With%20Numbers)
 
 🟠 [![C++](https://img.shields.io/badge/Getting-User%20Input-informational?style=flat)](https://github.com/shafiunmiraz0/Cpp-Crash-Course/tree/main/Getting%20User%20Input)
 
