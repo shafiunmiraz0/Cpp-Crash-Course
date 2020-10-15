@@ -1,4 +1,4 @@
-![C++-logo]()
+![C++-logo](https://github.com/shafiunmiraz0/Cpp-Crash-Course/blob/main/Assets/C%2B%2B-Logo.png)
 
 [![C++](https://img.shields.io/badge/Go%20Programming-Language-informational?style=for-the-badge)]()
 
